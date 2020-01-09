@@ -1,29 +1,33 @@
+---
+bibliography: Visual_01.bib
+---
+
 # This is notebook
-## Edited by: COMPLETE YOUR NAME HERE
+## Edited by: Yohan Min
 
 -----
-
-## This is an image: Move it to the top.
 
 ![](Evans_Logo.png)
 
 
-This is how you write in italics: *this way* or _this way_.
-This is how you write in bold: **this way** or __this way__.
+* I'm not in Evans school though: *I'm from* _College of Built Environments_.
+* But, I'm taking a class: **PUBPOL** __543__.
 
 If you need bullets:
 
-* One bullet
-* another one.
+* One *bullet*
+* **another** one.
 
 This is where you add a small piece of R code:
 
 ```{r}
-1+10
+1+2
 ```
 
-You will write several of those pieces later.
+You will write several of those pieces later [@ruppertStatisticsDataAnalysis2015a].
 
-Finally, you can add a citation using **citr** after the word "work":
+Finally, you can add a citation using **citr** after the word __"work"__:
 
-All this work will be based on previous work.
+All this work will be based on previous work [@magallanesreyesIntroducingDataScience2017].
+
+# References
